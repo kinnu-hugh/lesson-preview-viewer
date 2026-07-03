@@ -1,0 +1,209 @@
+{
+  "topics": [
+    {
+      "slug": "arc-length",
+      "title": "Arc Length",
+      "pages": [
+        {
+          "section": "introduction",
+          "label": "Introduction",
+          "order": 0,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughArcLength.golden-hugh-arc-length-00-introduction.png",
+          "filename": "snapshotGoldenHughArcLength.golden-hugh-arc-length-00-introduction.png"
+        },
+        {
+          "section": "rule-in-practice",
+          "label": "Rule in practice",
+          "order": 1,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughArcLength.golden-hugh-arc-length-01-rule-in-practice.png",
+          "filename": "snapshotGoldenHughArcLength.golden-hugh-arc-length-01-rule-in-practice.png"
+        },
+        {
+          "section": "traps",
+          "label": "Traps",
+          "order": 2,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughArcLength.golden-hugh-arc-length-02-traps.png",
+          "filename": "snapshotGoldenHughArcLength.golden-hugh-arc-length-02-traps.png"
+        },
+        {
+          "section": "worked-example",
+          "label": "Worked example",
+          "order": 3,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughArcLength.golden-hugh-arc-length-03-worked-example.png",
+          "filename": "snapshotGoldenHughArcLength.golden-hugh-arc-length-03-worked-example.png"
+        },
+        {
+          "section": "condensed",
+          "label": "Condensed",
+          "order": 4,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughArcLength.golden-hugh-arc-length-04-condensed.png",
+          "filename": "snapshotGoldenHughArcLength.golden-hugh-arc-length-04-condensed.png"
+        }
+      ]
+    },
+    {
+      "slug": "line-of-best-fit",
+      "title": "Line of Best Fit",
+      "pages": [
+        {
+          "section": "introduction",
+          "label": "Introduction",
+          "order": 0,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-00-introduction.png",
+          "filename": "snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-00-introduction.png"
+        },
+        {
+          "section": "rule-in-practice",
+          "label": "Rule in practice",
+          "order": 1,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-01-rule-in-practice.png",
+          "filename": "snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-01-rule-in-practice.png"
+        },
+        {
+          "section": "traps",
+          "label": "Traps",
+          "order": 2,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-02-traps.png",
+          "filename": "snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-02-traps.png"
+        },
+        {
+          "section": "worked-example",
+          "label": "Worked example",
+          "order": 3,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-03-worked-example.png",
+          "filename": "snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-03-worked-example.png"
+        },
+        {
+          "section": "condensed",
+          "label": "Condensed",
+          "order": 4,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-04-condensed.png",
+          "filename": "snapshotGoldenHughLineOfBestFit.golden-hugh-line-of-best-fit-04-condensed.png"
+        }
+      ]
+    },
+    {
+      "slug": "missing-angles",
+      "title": "Missing Angles",
+      "pages": [
+        {
+          "section": "introduction",
+          "label": "Introduction",
+          "order": 0,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-introduction.png",
+          "filename": "snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-introduction.png"
+        },
+        {
+          "section": "rule-in-practice",
+          "label": "Rule in practice",
+          "order": 1,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-rule-in-practice.png",
+          "filename": "snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-rule-in-practice.png"
+        },
+        {
+          "section": "traps",
+          "label": "Traps",
+          "order": 2,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-traps.png",
+          "filename": "snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-traps.png"
+        },
+        {
+          "section": "worked-example",
+          "label": "Worked example",
+          "order": 3,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-worked-example.png",
+          "filename": "snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-worked-example.png"
+        },
+        {
+          "section": "condensed",
+          "label": "Condensed",
+          "order": 4,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-condensed.png",
+          "filename": "snapshotGoldenHughMissingAngles.golden-hugh-missing-angles-condensed.png"
+        }
+      ]
+    },
+    {
+      "slug": "pythagorean-theorem",
+      "title": "Pythagorean Theorem",
+      "pages": [
+        {
+          "section": "introduction",
+          "label": "Introduction",
+          "order": 0,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-introduction.png",
+          "filename": "snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-introduction.png"
+        },
+        {
+          "section": "rule-in-practice",
+          "label": "Rule in practice",
+          "order": 1,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-rule-in-practice.png",
+          "filename": "snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-rule-in-practice.png"
+        },
+        {
+          "section": "traps",
+          "label": "Traps",
+          "order": 2,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-traps.png",
+          "filename": "snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-traps.png"
+        },
+        {
+          "section": "worked-example",
+          "label": "Worked example",
+          "order": 3,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-worked-example.png",
+          "filename": "snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-worked-example.png"
+        },
+        {
+          "section": "condensed",
+          "label": "Condensed",
+          "order": 4,
+          "src": "/images/golden-hugh-1/snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-condensed.png",
+          "filename": "snapshotGoldenHughPythagoreanTheorem.golden-hugh-pythagorean-theorem-condensed.png"
+        }
+      ]
+    },
+    {
+      "slug": "scatterplot",
+      "title": "Scatterplot",
+      "pages": [
+        {
+          "section": "introduction",
+          "label": "Introduction",
+          "order": 0,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughScatterplot.golden-hugh-scatterplot-00-introduction.png",
+          "filename": "snapshotGoldenHughScatterplot.golden-hugh-scatterplot-00-introduction.png"
+        },
+        {
+          "section": "rule-in-practice",
+          "label": "Rule in practice",
+          "order": 1,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughScatterplot.golden-hugh-scatterplot-01-rule-in-practice.png",
+          "filename": "snapshotGoldenHughScatterplot.golden-hugh-scatterplot-01-rule-in-practice.png"
+        },
+        {
+          "section": "traps",
+          "label": "Traps",
+          "order": 2,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughScatterplot.golden-hugh-scatterplot-02-traps.png",
+          "filename": "snapshotGoldenHughScatterplot.golden-hugh-scatterplot-02-traps.png"
+        },
+        {
+          "section": "worked-example",
+          "label": "Worked example",
+          "order": 3,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughScatterplot.golden-hugh-scatterplot-03-worked-example.png",
+          "filename": "snapshotGoldenHughScatterplot.golden-hugh-scatterplot-03-worked-example.png"
+        },
+        {
+          "section": "condensed",
+          "label": "Condensed",
+          "order": 4,
+          "src": "/images/golden-hugh-2/snapshotGoldenHughScatterplot.golden-hugh-scatterplot-04-condensed.png",
+          "filename": "snapshotGoldenHughScatterplot.golden-hugh-scatterplot-04-condensed.png"
+        }
+      ]
+    }
+  ]
+}

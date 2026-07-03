@@ -1,0 +1,10 @@
+{
+  "name": "lesson-preview-viewer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-manifest.mjs",
+    "start": "npm run build && python3 -m http.server 3456 --directory public",
+    "dev": "npm run build && python3 -m http.server 3456 --directory public"
+  }
+}
